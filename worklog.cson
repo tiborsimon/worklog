@@ -1,0 +1,25 @@
+worklog: [
+  '2016-01-11': [
+
+    '18:08':
+      log:
+        'Virtualenv integrated to the prompt'
+      commit:
+        'https://github.com/tiborsimon/dotfiles/commit/ef6994b1feed38ce382c6eca86a529f08a85858c'
+      tags: [
+        'tspr0002'
+        'config'
+      ]
+
+    '23:07':
+      log:
+        'Started the new worklog structure as a cson file.'
+      repo:
+        'https://github.com/tiborsimon/worklog'
+      tags: [
+        'tspr0001'
+        'management'
+      ]
+      
+  ]
+]

@@ -1,0 +1,1 @@
+cson2json worklog.cson > compiled.json
