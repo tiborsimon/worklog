@@ -1,5 +1,12 @@
 [
   {
+    "date": "2016-05-01 23:43:31", 
+    "log": "Worklog push integrated.", 
+    "tags": [
+      "worklog"
+    ]
+  }, 
+  {
     "date": "2016-05-01 23:41:10", 
     "log": "Worklog internals updated.", 
     "tags": [
