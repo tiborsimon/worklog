@@ -1,5 +1,12 @@
 [
   {
+    "date": "2016-05-01 23:44:13", 
+    "log": "Investigating assertRaises bug..", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
     "date": "2016-05-01 23:43:31", 
     "log": "Worklog push integrated.", 
     "tags": [
