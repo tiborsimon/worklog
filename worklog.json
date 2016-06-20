@@ -1,5 +1,12 @@
 [
   {
+    "date": "2016-06-20 21:23:10", 
+    "log": "Projects selector gui finished.", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
     "date": "2016-05-01 23:44:13", 
     "log": "Investigating assertRaises bug..", 
     "tags": [
