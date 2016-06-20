@@ -7,6 +7,13 @@
     ]
   }, 
   {
+    "date": "2016-06-15 20:48:13", 
+    "log": "Regular Army Knife submitted to PyPi.", 
+    "tags": [
+      "regular-army-knife"
+    ]
+  }, 
+  {
     "date": "2016-05-01 23:44:13", 
     "log": "Investigating assertRaises bug..", 
     "tags": [
