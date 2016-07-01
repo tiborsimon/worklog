@@ -1,1070 +1,1077 @@
 [
   {
-    "start": "2016-06-22 22:45:10", 
-    "log": "Worklog redesigned. Fully fuctioning.", 
-    "tags": [
-      "site"
-    ]
-  }, 
-  {
-    "start": "2016-06-21 23:59:10", 
-    "log": "Worklog (vis.js based) integrated to the site.", 
-    "tags": [
-      "site"
-    ]
-  }, 
-  {
-    "start": "2016-06-20 21:23:10", 
-    "log": "Projects selector gui finished.", 
+    "date": "2016-07-01 22:26:15", 
+    "log": "New command script generation in progress.", 
     "tags": [
       "projects"
     ]
   }, 
   {
-    "start": "2016-06-15 20:48:13", 
+    "log": "Worklog redesigned. Fully fuctioning.", 
+    "start": "2016-06-22 22:45:10", 
+    "tags": [
+      "site"
+    ]
+  }, 
+  {
+    "log": "Worklog (vis.js based) integrated to the site.", 
+    "start": "2016-06-21 23:59:10", 
+    "tags": [
+      "site"
+    ]
+  }, 
+  {
+    "log": "Projects selector gui finished.", 
+    "start": "2016-06-20 21:23:10", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
     "log": "Regular Army Knife submitted to PyPi.", 
+    "start": "2016-06-15 20:48:13", 
     "tags": [
       "regular-army-knife"
     ]
   }, 
   {
-      "start": "2016-05-11 21:46:30", 
-      "end": "2016-06-21 22:50:30",
-      "log": "New website design started.", 
-      "tags": [
-          "projects", 
-          "fail"
-      ]
-  }, 
-  {
-    "start": "2016-05-01 23:44:13", 
-    "log": "Investigating assertRaises bug..", 
-    "tags": [
-      "projects"
-    ]
-  }, 
-  {
-    "start": "2016-05-01 23:43:31", 
-    "log": "Worklog push integrated.", 
-    "tags": [
-      "worklog"
-    ]
-  }, 
-  {
-    "start": "2016-05-01 23:41:10", 
-    "log": "Worklog internals upstartd.", 
-    "tags": [
-      "worklog"
-    ]
-  }, 
-  {
-    "start": "2016-05-01 23:39:30", 
-    "log": "Unit testing bug was found during regression.. Supporting more than one python version is hard..", 
+    "end": "2016-06-21 22:50:30", 
+    "log": "New website design started.", 
+    "start": "2016-05-11 21:46:30", 
     "tags": [
       "projects", 
       "fail"
     ]
   }, 
   {
-    "start": "2016-05-01 23:20:00", 
-    "log": "Worklog started again..", 
+    "log": "Investigating assertRaises bug..", 
+    "start": "2016-05-01 23:44:13", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
+    "log": "Worklog push integrated.", 
+    "start": "2016-05-01 23:43:31", 
     "tags": [
       "worklog"
     ]
   }, 
   {
-    "start": "2016-03-22 23:03:47", 
+    "log": "Worklog internals upstartd.", 
+    "start": "2016-05-01 23:41:10", 
+    "tags": [
+      "worklog"
+    ]
+  }, 
+  {
+    "log": "Unit testing bug was found during regression.. Supporting more than one python version is hard..", 
+    "start": "2016-05-01 23:39:30", 
+    "tags": [
+      "projects", 
+      "fail"
+    ]
+  }, 
+  {
+    "log": "Worklog started again..", 
+    "start": "2016-05-01 23:20:00", 
+    "tags": [
+      "worklog"
+    ]
+  }, 
+  {
     "log": "PIC16F1455 controllers arrived.", 
+    "start": "2016-03-22 23:03:47", 
     "tags": [
       "pic", 
       "embedded"
     ]
   }, 
   {
-    "start": "2016-03-22 00:29:22", 
     "log": "Worklog helper script finished.", 
+    "start": "2016-03-22 00:29:22", 
     "tags": [
       "site"
     ]
   }, 
   {
+    "log": "Rethinking the individual module responsibilities..", 
     "start": "2015-11-30 16:00:00", 
-    "log": "Rethinking the individual module responsibilities..", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Rethinking the individual module responsibilities..", 
     "start": "2015-11-29 16:00:00", 
-    "log": "Rethinking the individual module responsibilities..", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-11-28 16:00:00", 
     "log": "Success! STM32 IDE ready for development.", 
+    "start": "2015-11-28 16:00:00", 
     "tags": "PR000035"
   }, 
   {
-    "start": "2015-11-27 16:00:00", 
     "log": "I have found http://gnuarmeclipse.github.io. Started to deploy it", 
+    "start": "2015-11-27 16:00:00", 
     "tags": "PR000035"
   }, 
   {
-    "start": "2015-11-26 16:00:00", 
     "log": "Still fighting the development environment..", 
+    "start": "2015-11-26 16:00:00", 
     "tags": "PR000035"
   }, 
   {
-    "start": "2015-11-25 16:00:00", 
     "log": "Started to set up the STM32 development environment. The previous attempts have failed due to the lack of serial communication..", 
+    "start": "2015-11-25 16:00:00", 
     "tags": "PR000035"
   }, 
   {
-    "start": "2015-11-24 16:00:00", 
     "log": "Setting up the new theme.<br>Transferring  project documentations..", 
+    "start": "2015-11-24 16:00:00", 
     "tags": "PR000002<br>PR000001"
   }, 
   {
-    "start": "2015-11-23 16:00:00", 
     "log": "Setting up the new theme.<br>Changing project documentation system from TiddlyWiki to OSX Notes.", 
+    "start": "2015-11-23 16:00:00", 
     "tags": "PR000002<br>PR000001"
   }, 
   {
-    "start": "2015-11-22 16:00:00", 
     "log": "Okay, I need a modern theme.. Let's buy one at themeforest.", 
+    "start": "2015-11-22 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-21 16:00:00", 
     "log": "Not the best result, but it is taking shape..", 
+    "start": "2015-11-21 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-20 16:00:00", 
     "log": "Trying to create a pure bootstrap theme for Pelican", 
+    "start": "2015-11-20 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-19 16:00:00", 
     "log": "My website is kind of lame.. I should refactor it..", 
+    "start": "2015-11-19 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-18 16:00:00", 
     "log": "Rethinking the individual module responsibilities..", 
+    "start": "2015-11-18 16:00:00", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-11-17 16:00:00", 
     "log": "Planning private projects.", 
+    "start": "2015-11-17 16:00:00", 
     "tags": "PR000000"
   }, 
   {
-    "start": "2015-11-16 16:00:00", 
     "log": "Documenting pneumatic sign presenter.", 
+    "start": "2015-11-16 16:00:00", 
     "tags": "PR000033"
   }, 
   {
-    "start": "2015-11-15 16:00:00", 
     "log": "Pneumatic sign presenter final design finished.", 
+    "start": "2015-11-15 16:00:00", 
     "tags": "PR000033"
   }, 
   {
-    "start": "2015-11-14 16:00:00", 
     "log": "Pneumatic sign presenter core was built.", 
+    "start": "2015-11-14 16:00:00", 
     "tags": "PR000033"
   }, 
   {
-    "start": "2015-11-13 16:00:00", 
     "log": "Pneumatic sign presenter first ideas.", 
+    "start": "2015-11-13 16:00:00", 
     "tags": "PR000033"
   }, 
   {
-    "start": "2015-11-12 16:00:00", 
     "log": "Trying to patch kicad..", 
+    "start": "2015-11-12 16:00:00", 
     "tags": "PR000030"
   }, 
   {
-    "start": "2015-11-11 16:00:00", 
     "log": "Small tweeks and polishing.", 
+    "start": "2015-11-11 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-10 16:00:00", 
     "log": "New design finished.", 
+    "start": "2015-11-10 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-09 16:00:00", 
     "log": "New design in progress..", 
+    "start": "2015-11-09 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-11-08 16:00:00", 
     "log": "New design for the website started..<br />Finally successfully created a blinker with the STM32F0 discovery board.<br />Printing still doesn't work though..", 
+    "start": "2015-11-08 16:00:00", 
     "tags": "PR000002<br />PR000012"
   }, 
   {
-    "start": "2015-11-07 16:00:00", 
     "log": "Keep trying to running a simple blinker -.-", 
+    "start": "2015-11-07 16:00:00", 
     "tags": "PR000012"
   }, 
   {
-    "start": "2015-11-06 16:00:00", 
     "log": "Learning the development environment for ARM on OSX. Fail..", 
+    "start": "2015-11-06 16:00:00", 
     "tags": "PR000012"
   }, 
   {
-    "start": "2015-11-05 16:00:00", 
     "log": "Being sick -.-", 
+    "start": "2015-11-05 16:00:00", 
     "tags": "-"
   }, 
   {
+    "log": "Being sick..", 
     "start": "2015-11-04 16:00:00", 
-    "log": "Being sick..", 
     "tags": "-"
   }, 
   {
-    "start": "2015-11-03 16:00:00", 
     "log": "Creating new global API for the modules.", 
+    "start": "2015-11-03 16:00:00", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Refactoring the module APIs.", 
     "start": "2015-11-02 16:00:00", 
-    "log": "Refactoring the module APIs.", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Refactoring the module APIs.", 
     "start": "2015-11-01 16:00:00", 
-    "log": "Refactoring the module APIs.", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Being sick..", 
     "start": "2015-10-31 16:00:00", 
-    "log": "Being sick..", 
     "tags": "-"
   }, 
   {
+    "log": "Being sick..", 
     "start": "2015-10-30 16:00:00", 
-    "log": "Being sick..", 
     "tags": "-"
   }, 
   {
-    "start": "2015-10-29 16:00:00", 
     "log": "Planning the module integrations.<br />Swift learning.", 
+    "start": "2015-10-29 16:00:00", 
     "tags": "PR000010<br />PR000029"
   }, 
   {
+    "log": "Swift learning.", 
     "start": "2015-10-28 16:00:00", 
-    "log": "Swift learning.", 
     "tags": "PR000029"
   }, 
   {
-    "start": "2015-10-27 16:00:00", 
     "log": "Pattern module finished.<br />Swift learning.", 
+    "start": "2015-10-27 16:00:00", 
     "tags": "PR000010<br />PR000029"
   }, 
   {
-    "start": "2015-10-26 16:00:00", 
     "log": "Pattern module refactored.<br />Swift learning.", 
+    "start": "2015-10-26 16:00:00", 
     "tags": "PR000010<br />PR000029"
   }, 
   {
-    "start": "2015-10-25 16:00:00", 
     "log": "Swift learning.", 
+    "start": "2015-10-25 16:00:00", 
     "tags": "PR000029"
   }, 
   {
-    "start": "2015-10-24 16:00:00", 
     "log": "Refactoring continued.<br />Swift learning process started!", 
+    "start": "2015-10-24 16:00:00", 
     "tags": "PR000010<br />PR000029"
   }, 
   {
-    "start": "2015-10-23 16:00:00", 
     "log": "Refactoring the existing code + new indexing method with new indexes.", 
+    "start": "2015-10-23 16:00:00", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-10-22 16:00:00", 
     "log": "Uploaded MATLAB related projects to MATLAB File Exchange", 
+    "start": "2015-10-22 16:00:00", 
     "tags": "PR000001"
   }, 
   {
-    "start": "2015-10-21 16:00:00", 
     "log": "SEO finished, site went live :)<br />TiddlyWiki new journal handling method<br />Progress in part selection", 
+    "start": "2015-10-21 16:00:00", 
     "tags": "PR000002<br />PR000001<br />PR000027"
   }, 
   {
-    "start": "2015-10-20 16:00:00", 
     "log": "SEO refactoring.", 
+    "start": "2015-10-20 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-10-19 16:00:00", 
     "log": "Website final refactorings, and SEO optimalizations.", 
+    "start": "2015-10-19 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-10-18 16:00:00", 
     "log": "Smart Sinusoids v1.3.0 released", 
+    "start": "2015-10-18 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-17 16:00:00", 
     "log": "Smart Sinusoids documentation refactoring.", 
+    "start": "2015-10-17 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-16 16:00:00", 
     "log": "Finished the win10 upgrade.. grrr..", 
+    "start": "2015-10-16 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-10-15 16:00:00", 
     "log": "Window 10 upgrade on my desktop machine.. failed.. really, Microsoft??!<br /> Clean installing win10", 
+    "start": "2015-10-15 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-10-14 16:00:00", 
     "log": "Starting to taking care of Smart Sinusoids as well..", 
+    "start": "2015-10-14 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-10-13 16:00:00", 
     "log": "Simple Input Parser v2.0.0 released", 
+    "start": "2015-10-13 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-12 16:00:00", 
     "log": "Simple Input Parser refactoring the existing codebase and<br />writing new documentation for it.", 
+    "start": "2015-10-12 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-11 16:00:00", 
     "log": "Simple Input Parser critical bug was found! Fix and huge rafactoring<br />in bulk mode was finished.", 
+    "start": "2015-10-11 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-10 16:00:00", 
     "log": "Simple Input parser new release feature freeze.", 
+    "start": "2015-10-10 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-09 16:00:00", 
     "log": "Simple Input Parser error handling system refactored.", 
+    "start": "2015-10-09 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-08 16:00:00", 
     "log": "Simple Input Parser refactoring started.", 
+    "start": "2015-10-08 16:00:00", 
     "tags": "PR000008"
   }, 
   {
-    "start": "2015-10-07 16:00:00", 
     "log": "Minor CSS refactoring<br />Matlab Library System page created.", 
+    "start": "2015-10-07 16:00:00", 
     "tags": "PR000002<br />PR000007"
   }, 
   {
-    "start": "2015-10-06 16:00:00", 
     "log": "tiborsimon.io core v3.0 has been released.", 
+    "start": "2015-10-06 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-10-05 16:00:00", 
     "log": "Finishing corresponding articles iin project pages.", 
+    "start": "2015-10-05 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-10-04 16:00:00", 
     "log": "Corresponding articles in project pages.", 
+    "start": "2015-10-04 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-10-03 16:00:00", 
     "log": "Matlab Library System v2.3.0 released.", 
+    "start": "2015-10-03 16:00:00", 
     "tags": "PR000007"
   }, 
   {
-    "start": "2015-10-02 16:00:00", 
     "log": "Matlab Library System new version implementations started.", 
+    "start": "2015-10-02 16:00:00", 
     "tags": "PR000007"
   }, 
   {
-    "start": "2015-10-01 16:00:00", 
     "log": "New TiddlyWiki task management template<br />Project page final layout.", 
+    "start": "2015-10-01 16:00:00", 
     "tags": "PR000001<br />PR000002"
   }, 
   {
-    "start": "2015-09-30 16:00:00", 
     "log": "Project page setup.", 
+    "start": "2015-09-30 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-29 16:00:00", 
     "log": "Refining the semi transparent view.", 
+    "start": "2015-09-29 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-28 16:00:00", 
     "log": "Importing old project management docs to the new system.", 
+    "start": "2015-09-28 16:00:00", 
     "tags": "PR000001"
   }, 
   {
-    "start": "2015-09-27 16:00:00", 
     "log": "Sidebar, categories an tags pages, semi-transparent bg.", 
+    "start": "2015-09-27 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-26 16:00:00", 
     "log": "Search system finalized, donation system refined", 
+    "start": "2015-09-26 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-25 16:00:00", 
     "log": "Social icons added.", 
+    "start": "2015-09-25 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-24 16:00:00", 
     "log": "Rigol DG1032Z has arrived.", 
+    "start": "2015-09-24 16:00:00", 
     "tags": "PR000016"
   }, 
   {
-    "start": "2015-09-23 16:00:00", 
     "log": "General refactoring..", 
+    "start": "2015-09-23 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-22 16:00:00", 
     "log": "Research on new features for the <a href=\"http://stackoverflow.com/questions/32710709/prepare-command-in-matlab\">Matlab Library System.</a>", 
+    "start": "2015-09-22 16:00:00", 
     "tags": "PR000007"
   }, 
   {
-    "start": "2015-09-21 16:00:00", 
     "log": "Critical error discovered in MATLAB library system. It only worked on windows. <br />Correction started.", 
+    "start": "2015-09-21 16:00:00", 
     "tags": "PR000007"
   }, 
   {
-    "start": "2015-09-20 16:00:00", 
     "log": "Article system refactored. New index page design.", 
+    "start": "2015-09-20 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-19 16:00:00", 
     "log": "New task management system implemented in TiddlyWiki.", 
+    "start": "2015-09-19 16:00:00", 
     "tags": "PR000001"
   }, 
   {
-    "start": "2015-09-18 16:00:00", 
     "log": "Index page refactoring.", 
+    "start": "2015-09-18 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-17 16:00:00", 
     "log": "Compliance with the EU cookie policy implemented.<br />Search system upstartd: search in projects is supported now.", 
+    "start": "2015-09-17 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-16 16:00:00", 
     "log": "Fading irrelevant content done :)", 
+    "start": "2015-09-16 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-15 16:00:00", 
     "log": "Fading irrelevant content issue", 
+    "start": "2015-09-15 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-14 16:00:00", 
     "log": "Inserting start through a hotkey.. It can't be that hard on a mac :D Success at<br />midnight -.- New Tiddly setup without Node.js..", 
+    "start": "2015-09-14 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-09-13 16:00:00", 
     "log": "Buspirate and screen research. Inserting start through a hotkey..", 
+    "start": "2015-09-13 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-09-12 16:00:00", 
     "log": "New styled header. The final structure is started to take shape..<br /> Not to much success with Wim Wiki on mac.. looking for an alternative: TiddlyWiki<br />was the winner! Learning started!", 
+    "start": "2015-09-12 16:00:00", 
     "tags": "PR000002<br />PR000013"
   }, 
   {
-    "start": "2015-09-11 16:00:00", 
     "log": "Creating separate initialization files for mac.. <br /> Setting up the compiling environment on mac.. At the evening I was be able to <br />compile and publish my site!", 
+    "start": "2015-09-11 16:00:00", 
     "tags": "PR000002<br />PR0000013"
   }, 
   {
-    "start": "2015-09-10 16:00:00", 
     "log": "UTF-8 issue solved. The minifying modula couldn;t handle the special html charachters.<br /> Font awesome icons were used instead.<br/> Aaaand my SSD inside my small ACER died. Newer gonna buy an ADATA SSD again.<br />It had some issues before with booting, but for now, it died comletely.<br />Old spinning HDD in, reinstall windows.. It is slow as a hell! <br />Switching back to my spare macbook pro..", 
+    "start": "2015-09-10 16:00:00", 
     "tags": "PR000002<br />PR000013"
   }, 
   {
-    "start": "2015-09-09 16:00:00", 
     "log": "Refactoring index page..", 
+    "start": "2015-09-09 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-08 16:00:00", 
     "log": "Refactoring plugins..", 
+    "start": "2015-09-08 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-07 16:00:00", 
     "log": "Refactoring plugins.. Interesting permission error on webserver..", 
+    "start": "2015-09-07 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-09-06 16:00:00", 
     "log": "Windows 10 setup. <br />Website moved to git repo completely.", 
+    "start": "2015-09-06 16:00:00", 
     "tags": "PR000013<br />PR000002"
   }, 
   {
-    "start": "2015-09-05 16:00:00", 
     "log": "Windows 10 setup", 
+    "start": "2015-09-05 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-09-04 16:00:00", 
     "log": "Battery life problems still occur.. 1.5 hours of battery?? Switching back to windows..", 
+    "start": "2015-09-04 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-09-03 16:00:00", 
     "log": "Linux Mint setup. Problems with battery life..", 
+    "start": "2015-09-03 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-09-02 16:00:00", 
     "log": "Linux Mint setup.<br />New project structure created. PR <--> TSPR are not the same anymore..", 
+    "start": "2015-09-02 16:00:00", 
     "tags": "PR000013<br />PR000002"
   }, 
   {
-    "start": "2015-09-01 16:00:00", 
     "log": "Linux Mint setup.<br />Website integration", 
+    "start": "2015-09-01 16:00:00", 
     "tags": "PR000013<br />PR000002"
   }, 
   {
+    "log": "Linux Mint setup.", 
     "start": "2015-08-31 16:00:00", 
-    "log": "Linux Mint setup.", 
     "tags": "PR000013"
   }, 
   {
+    "log": "Linux Mint setup.", 
     "start": "2015-08-30 16:00:00", 
-    "log": "Linux Mint setup.", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-29 16:00:00", 
     "log": "Linux Mint setup. Website environment setup.", 
+    "start": "2015-08-29 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-28 16:00:00", 
     "log": "Pip-tools messed up the base python3 config.. Reinstall.. :)", 
+    "start": "2015-08-28 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-27 16:00:00", 
     "log": "Ending up using Mint. Learning about linux systems, partitioning..", 
+    "start": "2015-08-27 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-26 16:00:00", 
     "log": "Debian installation.. WFT?? not working.. Looking for alternatives.. Testing Puppy linux..", 
+    "start": "2015-08-26 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-25 16:00:00", 
     "log": "Research for alternatives..", 
+    "start": "2015-08-25 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-24 16:00:00", 
     "log": "Research seems to lead to Debian", 
+    "start": "2015-08-24 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-23 16:00:00", 
     "log": "Research about the switching", 
+    "start": "2015-08-23 16:00:00", 
     "tags": "PR000013"
   }, 
   {
-    "start": "2015-08-22 16:00:00", 
     "log": "Troubles with compilation.. Planning to switch to linux..", 
+    "start": "2015-08-22 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-21 16:00:00", 
     "log": "Projects refactoring", 
+    "start": "2015-08-21 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-20 16:00:00", 
     "log": "Search system integration", 
+    "start": "2015-08-20 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-19 16:00:00", 
     "log": "Finalizing website", 
+    "start": "2015-08-19 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-18 16:00:00", 
     "log": "Domain change tibor-simon.com -> tiborsimon.io", 
+    "start": "2015-08-18 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-17 16:00:00", 
     "log": "New instruments arrived: Rigol DS1054Z, Tektronix 2215A", 
+    "start": "2015-08-17 16:00:00", 
     "tags": "PR000016"
   }, 
   {
+    "log": "Pelican plugin development", 
     "start": "2015-08-16 16:00:00", 
-    "log": "Pelican plugin development", 
     "tags": "PR000002"
   }, 
   {
+    "log": "Pelican plugin development", 
     "start": "2015-08-15 16:00:00", 
-    "log": "Pelican plugin development", 
     "tags": "PR000002"
   }, 
   {
+    "log": "Pelican plugin development<br>Oscilloscope research", 
     "start": "2015-08-14 16:00:00", 
-    "log": "Pelican plugin development<br>Oscilloscope research", 
     "tags": "PR000002<br>PR000017"
   }, 
   {
+    "log": "Pelican plugin development<br>Oscilloscope research", 
     "start": "2015-08-13 16:00:00", 
-    "log": "Pelican plugin development<br>Oscilloscope research", 
     "tags": "PR000002<br>PR000017"
   }, 
   {
+    "log": "Pelican plugin development<br>Oscilloscope research", 
     "start": "2015-08-12 16:00:00", 
-    "log": "Pelican plugin development<br>Oscilloscope research", 
     "tags": "PR000002<br>PR000017"
   }, 
   {
+    "log": "Pelican plugin development<br>Oscilloscope research", 
     "start": "2015-08-11 16:00:00", 
-    "log": "Pelican plugin development<br>Oscilloscope research", 
     "tags": "PR000002<br>PR000017"
   }, 
   {
-    "start": "2015-08-10 16:00:00", 
     "log": "Pelican plugin development", 
+    "start": "2015-08-10 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-09 16:00:00", 
     "log": "Pelican plugin development<br>STM32F042x micro study.", 
+    "start": "2015-08-09 16:00:00", 
     "tags": "PR000002<br>PR000012"
   }, 
   {
-    "start": "2015-08-08 16:00:00", 
     "log": "Pelican plugin development<br>STM32F042x micro study.<br>Use case specification", 
+    "start": "2015-08-08 16:00:00", 
     "tags": "PR000002<br>PR000012<br>PR000015"
   }, 
   {
-    "start": "2015-08-07 16:00:00", 
     "log": "Pelican plugin development<br>STM32F042x micro study.", 
+    "start": "2015-08-07 16:00:00", 
     "tags": "PR000002<br>PR000012"
   }, 
   {
-    "start": "2015-08-06 16:00:00", 
     "log": "Pelican plugin development. GitHub API.v3 study<br>STM32F042x micro study.", 
+    "start": "2015-08-06 16:00:00", 
     "tags": "PR000002<br>PR000012"
   }, 
   {
+    "log": "PR project integration. Refinement.", 
     "start": "2015-08-05 16:00:00", 
-    "log": "PR project integration. Refinement.", 
     "tags": "PR000002"
   }, 
   {
+    "log": "PR project integration. Refinement.", 
     "start": "2015-08-04 16:00:00", 
-    "log": "PR project integration. Refinement.", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-03 16:00:00", 
     "log": "PR project integration.", 
+    "start": "2015-08-03 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-02 16:00:00", 
     "log": "Pelican plugin development.", 
+    "start": "2015-08-02 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-08-01 16:00:00", 
     "log": "Website development. Integrating bootstrap elements.", 
+    "start": "2015-08-01 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-31 16:00:00", 
     "log": "tiborsimon.io - Project system plugin done<br>Importing projects from the old management system", 
+    "start": "2015-07-31 16:00:00", 
     "tags": "PR000002<br>PR000001"
   }, 
   {
+    "log": "tiborsimon.io - Pelican custom plugin development", 
     "start": "2015-07-30 16:00:00", 
-    "log": "tiborsimon.io - Pelican custom plugin development", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Pelican custom plugin development", 
     "start": "2015-07-29 16:00:00", 
-    "log": "tiborsimon.io - Pelican custom plugin development", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-28 16:00:00", 
     "log": "tiborsimon.io - Pelican plugin system learning & theme structure study", 
+    "start": "2015-07-28 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-27 16:00:00", 
     "log": "tiborsimon.io - Understanding Pelican", 
+    "start": "2015-07-27 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-26 16:00:00", 
     "log": "tiborsimon.io - Converting old content", 
+    "start": "2015-07-26 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-25 16:00:00", 
     "log": "tiborsimon.io - purchasing the domain", 
+    "start": "2015-07-25 16:00:00", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Bootstrap learning", 
     "start": "2015-07-24 16:00:00", 
-    "log": "tiborsimon.io - Bootstrap learning", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Bootstrap learning", 
     "start": "2015-07-23 16:00:00", 
-    "log": "tiborsimon.io - Bootstrap learning", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Bootstrap learning", 
     "start": "2015-07-22 16:00:00", 
-    "log": "tiborsimon.io - Bootstrap learning", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-21 16:00:00", 
     "log": "tiborsimon.io - Pelican themes", 
+    "start": "2015-07-21 16:00:00", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Pelican learning", 
     "start": "2015-07-20 16:00:00", 
-    "log": "tiborsimon.io - Pelican learning", 
     "tags": "PR000002"
   }, 
   {
+    "log": "tiborsimon.io - Pelican learning", 
     "start": "2015-07-19 16:00:00", 
-    "log": "tiborsimon.io - Pelican learning", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-18 16:00:00", 
     "log": "tiborsimon.io - first compile with Pelican", 
+    "start": "2015-07-18 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-07-17 16:00:00", 
     "log": "tiborsimon.io - research for the new static engine", 
+    "start": "2015-07-17 16:00:00", 
     "tags": "PR000002"
   }, 
   {
+    "log": "Evernote Project Management v2.0", 
     "start": "2015-07-16 16:00:00", 
-    "log": "Evernote Project Management v2.0", 
     "tags": "PR000001"
   }, 
   {
+    "log": "Evernote Project Management v2.0", 
     "start": "2015-07-15 16:00:00", 
-    "log": "Evernote Project Management v2.0", 
     "tags": "PR000001"
   }, 
   {
-    "start": "2015-07-14 16:00:00", 
     "log": "Replaceit development", 
+    "start": "2015-07-14 16:00:00", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-07-13 16:00:00", 
     "log": "Replaceit development<br>Python learning", 
+    "start": "2015-07-13 16:00:00", 
     "tags": "PR000010<br><br>"
   }, 
   {
-    "start": "2015-07-12 16:00:00", 
     "log": "Replaceit development", 
+    "start": "2015-07-12 16:00:00", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-07-11 16:00:00", 
     "log": "Replaceit development<br>Python learning", 
+    "start": "2015-07-11 16:00:00", 
     "tags": "PR000010<br>"
   }, 
   {
+    "log": "Replaceit development<br>Python learning<br>Calculator Hero", 
     "start": "2015-07-10 16:00:00", 
-    "log": "Replaceit development<br>Python learning<br>Calculator Hero", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning<br>Calculator Hero", 
     "start": "2015-07-09 16:00:00", 
-    "log": "Replaceit development<br>Python learning<br>Calculator Hero", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-07-08 16:00:00", 
     "log": "Replaceit development<br>Python learning<br>Calculator Hero<br>Develogger", 
+    "start": "2015-07-08 16:00:00", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-07 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-06 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-05 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-04 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-03 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-02 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Replaceit development<br>Python learning", 
     "start": "2015-07-01 16:00:00", 
-    "log": "Replaceit development<br>Python learning", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-30 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-29 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-28 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-27 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-26 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-25 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-24 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-23 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
+    "log": "Mass Replacer development", 
     "start": "2015-06-22 16:00:00", 
-    "log": "Mass Replacer development", 
     "tags": "PR000010"
   }, 
   {
-    "start": "2015-06-21 16:00:00", 
     "log": "Learning PyQt<br>Learning python freezing into executable", 
+    "start": "2015-06-21 16:00:00", 
     "tags": "<br>"
   }, 
   {
-    "start": "2015-06-20 16:00:00", 
     "log": "Transporting the personal diarry and picture<br>to one place", 
+    "start": "2015-06-20 16:00:00", 
     "tags": "<br>"
   }, 
   {
-    "start": "2015-06-17 16:00:00", 
     "log": "MATLAB Library System version upstart v2.1", 
+    "start": "2015-06-17 16:00:00", 
     "tags": "PR000007"
   }, 
   {
-    "start": "2015-06-13 16:00:00", 
     "log": "Smart Sinusoids article<br>Being sick..<br>iOS development environment setup", 
+    "start": "2015-06-13 16:00:00", 
     "tags": "PR000009"
   }, 
   {
+    "log": "Smart Sinusoids article<br>Being sick..", 
     "start": "2015-06-12 16:00:00", 
-    "log": "Smart Sinusoids article<br>Being sick..", 
     "tags": "PR000009"
   }, 
   {
+    "log": "Smart Sinusoids article<br>Being sick..", 
     "start": "2015-06-10 16:00:00", 
-    "log": "Smart Sinusoids article<br>Being sick..", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-06-09 16:00:00", 
     "log": "Solarized Gists scroll feature finished", 
+    "start": "2015-06-09 16:00:00", 
     "tags": "PR000006"
   }, 
   {
-    "start": "2015-06-08 16:00:00", 
     "log": "Solarized Gists scroll feature", 
+    "start": "2015-06-08 16:00:00", 
     "tags": "PR000006"
   }, 
   {
+    "log": "Old article import", 
     "start": "2015-06-07 16:00:00", 
-    "log": "Old article import", 
     "tags": "PR000002"
   }, 
   {
+    "log": "Old article import", 
     "start": "2015-06-06 16:00:00", 
-    "log": "Old article import", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-06-05 16:00:00", 
     "log": "TOC development and old article import", 
+    "start": "2015-06-05 16:00:00", 
     "tags": "PR000002"
   }, 
   {
+    "log": "TOC development", 
     "start": "2015-06-04 16:00:00", 
-    "log": "TOC development", 
     "tags": "PR000002"
   }, 
   {
+    "log": "TOC development", 
     "start": "2015-06-03 16:00:00", 
-    "log": "TOC development", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-06-02 16:00:00", 
     "log": "Smart Sinusoids article<br>Python learning (namespace, modules)", 
-    "tags": "PR000009"
-  }, 
-  {
     "start": "2015-06-02 16:00:00", 
+    "tags": "PR000009"
+  }, 
+  {
     "log": "Smart Sinusoids article<br>Python learning (functions, generators)", 
+    "start": "2015-06-02 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-06-01 16:00:00", 
     "log": "Smart Sinusoids article<br>Python learning<br>Home network shared devices installation", 
+    "start": "2015-06-01 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-05-31 16:00:00", 
     "log": "Smart Sinusoids article", 
+    "start": "2015-05-31 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-05-30 16:00:00", 
     "log": "Simple Input Parser and Smart sinusoids refactoring building home network", 
+    "start": "2015-05-30 16:00:00", 
     "tags": "PR000009<br>"
   }, 
   {
-    "start": "2015-05-29 16:00:00", 
     "log": "Simple Input Parser and Smart sinusoids refactoring", 
+    "start": "2015-05-29 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-05-28 16:00:00", 
     "log": "Smart sinusoids artwork<br>Home network planning", 
+    "start": "2015-05-28 16:00:00", 
     "tags": "PR000009<br>"
   }, 
   {
-    "start": "2015-05-27 16:00:00", 
     "log": "Smart sinusoids artwork.", 
+    "start": "2015-05-27 16:00:00", 
     "tags": "PR000009"
   }, 
   {
-    "start": "2015-05-26 16:00:00", 
     "log": "Author and twitter integration.", 
+    "start": "2015-05-26 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-05-25 16:00:00", 
     "log": "Thesis finished :) Improved Solarized Gists article.", 
+    "start": "2015-05-25 16:00:00", 
     "tags": "-"
   }, 
   {
-    "start": "2015-05-24 16:00:00", 
     "log": "Thesis work......", 
+    "start": "2015-05-24 16:00:00", 
     "tags": "-"
   }, 
   {
-    "start": "2015-05-23 16:00:00", 
     "log": "Thesis work.....", 
+    "start": "2015-05-23 16:00:00", 
     "tags": "-"
   }, 
   {
+    "log": "Thesis work..", 
     "start": "2015-05-22 16:00:00", 
-    "log": "Thesis work..", 
     "tags": "-"
   }, 
   {
+    "log": "Thesis work..", 
     "start": "2015-05-21 16:00:00", 
-    "log": "Thesis work..", 
     "tags": "-"
   }, 
   {
+    "log": "Thesis work..", 
     "start": "2015-05-20 16:00:00", 
-    "log": "Thesis work..", 
     "tags": "-"
   }, 
   {
-    "start": "2015-05-19 16:00:00", 
     "log": "<em>winreg</em> study<br>Thesis", 
+    "start": "2015-05-19 16:00:00", 
     "tags": "-"
   }, 
   {
-    "start": "2015-05-18 16:00:00", 
     "log": "Testing the <em>winreg</em> and <em>pydispatcher</em> python library", 
+    "start": "2015-05-18 16:00:00", 
     "tags": "-"
   }, 
   {
-    "start": "2015-05-17 16:00:00", 
     "log": "Finished Simple Jekyll search system and <a href=\"http://tiborsimon.github.io/tools/simple-jekyll-search-system/\">article</a>. <a href=\"http://tiborsimon.github.io/tools/redirect-external-links-to-new-tab/\">Redirect article.</a>", 
+    "start": "2015-05-17 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-05-16 16:00:00", 
     "log": "Working on the search system..", 
+    "start": "2015-05-16 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-05-15 16:00:00", 
     "log": "Writing Simple Jekyll search system article and experimenting with jQuery", 
+    "start": "2015-05-15 16:00:00", 
     "tags": "PR000002"
   }, 
   {
-    "start": "2015-05-14 16:00:00", 
     "log": "Simple Jekyll search system was integrated", 
+    "start": "2015-05-14 16:00:00", 
     "tags": "PR000002"
   }
 ]
