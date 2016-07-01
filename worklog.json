@@ -1,7 +1,14 @@
 [
   {
-    "start": "2016-07-01 22:26:15", 
+    "log": "New worklog architecture added. Rawgit is useful.", 
+    "start": "2016-07-01 22:44:37", 
+    "tags": [
+      "worklog"
+    ]
+  }, 
+  {
     "log": "New command script generation in progress.", 
+    "start": "2016-07-01 22:26:15", 
     "tags": [
       "projects"
     ]
