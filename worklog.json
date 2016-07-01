@@ -1,5 +1,12 @@
 [
   {
+    "log": "Worklog bug resolved. Rawgit not the best solution.. Github pages used instead.", 
+    "start": "2016-07-01 23:26:00", 
+    "tags": [
+      "worklog"
+    ]
+  }, 
+  {
     "log": "New worklog architecture added. Rawgit is useful.", 
     "start": "2016-07-01 22:44:37", 
     "tags": [
@@ -14,9 +21,9 @@
     ]
   }, 
   {
+    "end": "2016-06-28 22:24:55", 
     "log": "Face detection time in Lightroom.", 
     "start": "2016-06-28 09:00:00", 
-    "end": "2016-06-28 22:24:55", 
     "tags": [
       "photos"
     ]
