@@ -1,5 +1,26 @@
 [
   {
+    "log": "Projects v1.0.8 first working release.", 
+    "start": "2016-07-09 22:26:00", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
+    "log": "Moog System 15 learning!", 
+    "start": "2016-07-09 10:34:32", 
+    "tags": [
+      "music"
+    ]
+  }, 
+  {
+    "log": "Projects development finished. Python distribution learning.", 
+    "start": "2016-07-03 20:26:00", 
+    "tags": [
+      "projects"
+    ]
+  }, 
+  {
     "log": "Worklog bug resolved. Rawgit not the best solution.. Github pages used instead.", 
     "start": "2016-07-01 23:26:00", 
     "tags": [
