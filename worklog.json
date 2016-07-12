@@ -1,5 +1,12 @@
 [
   {
+    "log": "Two way authentication for GitHub added to dotfiles.", 
+    "start": "2016-07-13 00:48:14", 
+    "tags": [
+      "dotfiles"
+    ]
+  }, 
+  {
     "log": "Emacs config started.", 
     "start": "2016-07-11 00:18:53", 
     "tags": [
