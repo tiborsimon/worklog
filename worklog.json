@@ -1,5 +1,26 @@
 [
   {
+    "log": "Boss BCB-60 pedal board setup finished.", 
+    "start": "2016-07-20 23:15:00", 
+    "tags": [
+      "music"
+    ]
+  }, 
+  {
+    "log": "Boss BCB-60 purchased.", 
+    "start": "2016-07-18 17:35:00", 
+    "tags": [
+      "music"
+    ]
+  }, 
+  {
+    "log": "PIC definition converter started.", 
+    "start": "2016-07-17 15:55:00", 
+    "tags": [
+      "embedded"
+    ]
+  }, 
+  {
     "log": "Two way authentication for GitHub added to dotfiles.", 
     "start": "2016-07-13 00:48:14", 
     "tags": [
