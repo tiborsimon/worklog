@@ -1,5 +1,12 @@
 [
   {
+    "log": "~500 MB TDD ready header file generated.", 
+    "start": "2016-07-26 22:45:47", 
+    "tags": [
+      "embedded"
+    ]
+  }, 
+  {
     "log": "Regart: corrected new stable release: v1.0.4", 
     "start": "2016-07-24 01:53:51", 
     "tags": [
