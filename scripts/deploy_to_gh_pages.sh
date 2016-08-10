@@ -22,4 +22,4 @@ ls -la
 git diff
 git add worklog.json
 git commit -m "Deploy worklog."
-echo ${GITHUB_TOKEN} | git --force --quiet push origin gh-pages
+echo ${GITHUB_TOKEN} | git push origin gh-pages
