@@ -5,8 +5,5 @@ publish:
 	git commit -m "Worklog added."
 	git checkout gh-pages
 	git merge master
+	git checkout master
 	git push
-	git checkout master 
-	git push
-
-
