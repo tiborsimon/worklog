@@ -1,8 +1,7 @@
 .PHONY: publish
 publish:
 	python publish/publish.py
-	git add --all
-	git commit -m "Worklog added."
+	git commit -am "Worklog updated."
 	git checkout gh-pages
 	git merge master
 	git checkout master
