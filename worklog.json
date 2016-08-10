@@ -7,6 +7,13 @@
     ]
   },
   {
+    "log": "Org-mode encryption added.",
+    "start": "2016-08-05 14:00:00",
+    "tags": [
+      "worklog"
+    ]
+  },
+  {
     "log": "Org-mode config started.",
     "start": "2016-08-02 01:00:00",
     "tags": [
