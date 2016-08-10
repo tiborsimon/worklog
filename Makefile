@@ -1,6 +1,6 @@
 .PHONY: publish
 publish:
-	python scripts/publish_json.py
+	python publish_json.py
 	git add --all
 	git commit -m "Worklog added."
 	git checkout gh-pages
