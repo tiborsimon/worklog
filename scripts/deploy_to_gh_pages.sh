@@ -20,5 +20,6 @@ make publish
 cd publish
 ls -la
 git status
-git commit -am "Deploy worklog."
-git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" master:gh-pages
+git add worklog.json
+git commit -m "Deploy worklog."
+git --force --quiet push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" master:gh-pages > /dev/null 2>&1
