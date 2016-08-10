@@ -1,0 +1,7 @@
+ # .travis.yml
+script:
+  - bash ./scripts/deploy_to_gh_pages.sh
+env:
+  global:
+      - GITHUB_REPO: "tiborsimon/worklog"
+      - secure: "k5PFTG/hrTpQBogolV+4anyJwhdkAcVjZ4FSVn849bAlZGcWPUnE3xGY1uE75oCB3Mbupp/PhNMqoi9FL7r74CRStMIMCcOLo7hW4NHME8nyBdS/UAmrremKzYlR0y3KasvVY0q7TCpmbaxtisju7quB0RR4DjwYFxT+pdaLnMMMbuv7rdNr90rmOorlNnz29kPYJTslbZQGY+Sla9cy3bebfDMRunA5P/WOfDTD0rd+NSRsUyTVcdQMSQ53woQ1aaO5/UcJCOZDr4tmKW7R2TCo/t61uDl5lOtw0jWhCm6QC17kghc/PiEg+pxqmygaX6EVdpWZqCq/FMhhl96V09U7VgyMOLVlHhFZIB/IZdP3gYsKmpb2ugKLYdywDvS7iSqe5W4TcSiDolwlfbOdEUrmSKBFkm8Vyq6BI2HEVQItJsLY+RE/ur4Syl3KDNY088yIWRovkQy9mu7Dwr1q47B/vI+2fzVe+DM42DO8rLpi7MLclu5HDCF9QbKCvafxZmVA46vCorKCuB+z7gy8q54U53ypBK4KQOEfo1ySb5nb8PD5FGbsrCd1FPO6281GqsDNdwbagOYfHOmhbIS4deuuU/MxDm2tGTcMQVuqjjbCjRERjRrl4vCQj3Z1qZAXFaqxurbu3PLMzjA1kZzkQ5D1CGpBRmjzio0sJlXm19Q="

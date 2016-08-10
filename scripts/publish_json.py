@@ -18,7 +18,7 @@ def generate():
             output[-1]['end'] = log['end']
         counter += 1
 
-    with open('rendered/rendered_worklog.json', 'w+') as f:
+    with open('publish/worklog.json', 'w+') as f:
         json.dump(output, f)
 
 
