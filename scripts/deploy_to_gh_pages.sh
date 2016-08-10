@@ -8,13 +8,14 @@ git config --global user.name "Travis CI"
 
 mkdir publish
 cd publish
-git clone https://github.com/tiborsimon/worklog.git
-git checkout gh-pages
-
+git init
+git pull https://${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git gh-pages:master
 
 # build
+cd ..
 make publish
 
 # deploy
+cd publish
 git commit -am "Deploy worklog."
 git push --force --quiet "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
