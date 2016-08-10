@@ -17,5 +17,5 @@ make publish
 cd publish
 git add worklog.json
 git commit -m "Deploy worklog."
-git branch
+echo "${GITHUB_TOKEN}"
 echo "tiborsimon\n${GITHUB_TOKEN}" | git push https://github.com/tiborsimon/worklog.git gh-pages
