@@ -20,6 +20,7 @@ def generate():
 
     with open('publish/worklog.json', 'w+') as f:
         json.dump(output, f)
+    print('Worklog generated.')
 
 
 if __name__ == '__main__':

@@ -12,7 +12,7 @@ git config --global user.name "Travis CI"
 make publish
 
 # deploy
-cd public
+cd publish
 git init
 git add worklog.json
 git commit -m "Deploy worklog."
