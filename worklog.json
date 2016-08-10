@@ -7,10 +7,17 @@
     ]
   },
   {
+    "log": "Org-mode image handling fixed.",
+    "start": "2016-08-06 18:00:00",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
     "log": "Org-mode encryption added.",
     "start": "2016-08-05 14:00:00",
     "tags": [
-      "worklog"
+      "emacs"
     ]
   },
   {
