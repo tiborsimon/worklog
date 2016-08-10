@@ -3,7 +3,7 @@ publish:
 	python publish/publish.py
 	git commit -am "Worklog updated."
 	git checkout gh-pages
-	git merge master
+	git merge master -m "Master merged."
 	git checkout master
 	git push
 
