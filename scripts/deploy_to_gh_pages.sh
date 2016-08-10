@@ -22,4 +22,4 @@ cd publish
 ls -la
 git status
 git commit -am "Deploy worklog."
-git push --force --quiet "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
+git push "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git" master:gh-pages
