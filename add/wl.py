@@ -14,7 +14,7 @@ temp = {
         'log': message
         }
 
-temp['start'] = time.strftime('%Y-%m-%d %H:%M:%S')
+temp['timestamp'] = time.strftime('%Y-%m-%d %H:%M:%S')
 
 print('What are the tags?')
 
