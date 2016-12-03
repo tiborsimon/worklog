@@ -415,16 +415,12 @@
   {
     "log": "Being sick -.-",
     "timestamp": "2015-11-05 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Being sick..",
     "timestamp": "2015-11-04 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Creating new global API for the modules.",
@@ -450,16 +446,12 @@
   {
     "log": "Being sick..",
     "timestamp": "2015-10-31 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Being sick..",
     "timestamp": "2015-10-30 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Planning the module integrations.<br />Swift learning.",
@@ -1548,58 +1540,42 @@
   {
     "log": "Thesis finished :) Improved Solarized Gists article.",
     "timestamp": "2015-05-25 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Thesis work......",
     "timestamp": "2015-05-24 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Thesis work.....",
     "timestamp": "2015-05-23 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Thesis work..",
     "timestamp": "2015-05-22 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Thesis work..",
     "timestamp": "2015-05-21 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Thesis work..",
     "timestamp": "2015-05-20 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "<em>winreg</em> study<br>Thesis",
     "timestamp": "2015-05-19 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Testing the <em>winreg</em> and <em>pydispatcher</em> python library",
     "timestamp": "2015-05-18 16:00:00",
-    "tags": [
-      "-"
-    ]
+    "tags": []
   },
   {
     "log": "Finished Simple Jekyll search system and <a href=\"http://tiborsimon.github.io/tools/simple-jekyll-search-system/\">article</a>. <a href=\"http://tiborsimon.github.io/tools/redirect-external-links-to-new-tab/\">Redirect article.</a>",
