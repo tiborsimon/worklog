@@ -1,5 +1,12 @@
 [
   {
+    "log": "Aaand reverting back to Linux Mint Mate.. Cinnamon was a resource eating beast..", 
+    "tags": [
+      "system"
+    ], 
+    "timestamp": "2016-12-04 21:53:01"
+  }, 
+  {
     "log": "Linux Mint 18 Cinammon installed. This is the best so far..", 
     "tags": [
       "system"
