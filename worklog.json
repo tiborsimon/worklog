@@ -1,5 +1,12 @@
 [
   {
+    "log": "New website has been deployed.", 
+    "tags": [
+      "website"
+    ], 
+    "timestamp": "2016-12-04 15:57:32"
+  }, 
+  {
     "log": "Almost ready to deploy the new site.", 
     "tags": [
       "website"
