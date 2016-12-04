@@ -1,5 +1,12 @@
 [
   {
+    "log": "Almost ready to deploy the new site.", 
+    "tags": [
+      "website"
+    ], 
+    "timestamp": "2016-12-04 14:30:06"
+  }, 
+  {
     "log": "Images added to the new design. No more popup album. Only inline images with captions.", 
     "tags": [
       "website"
