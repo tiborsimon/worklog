@@ -1,5 +1,12 @@
 [
   {
+    "log": "Images added to the new design. No more popup album. Only inline images with captions.", 
+    "tags": [
+      "website"
+    ], 
+    "timestamp": "2016-12-04 13:06:06"
+  }, 
+  {
     "log": "New worklog system implemented with html publish and embed.", 
     "tags": [
       "worklog"
