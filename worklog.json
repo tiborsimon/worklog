@@ -1,5 +1,12 @@
 [
   {
+    "log": "Linux Mint 18 Cinammon installed. This is the best so far..", 
+    "tags": [
+      "system"
+    ], 
+    "timestamp": "2016-12-04 17:11:35"
+  }, 
+  {
     "log": "New website has been deployed.", 
     "tags": [
       "website"
