@@ -1,5 +1,12 @@
 [
   {
+    "log": "Shallow submodules enabled for the site repository. Faster initialization.", 
+    "tags": [
+      "website"
+    ], 
+    "timestamp": "2016-12-05 08:26:10"
+  }, 
+  {
     "log": "Aaand reverting back to Linux Mint Mate.. Cinnamon was a resource eating beast..", 
     "tags": [
       "system"
